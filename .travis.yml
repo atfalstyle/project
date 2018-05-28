@@ -2,8 +2,8 @@ language: php
 
 env:
   global:
-    - 'FTP_USER=gagasprastya65'
-    - 'FTP_PASS=gagas1997'
+    - 'FTP_USER=MuhammadAthfal'
+    - 'FTP_PASS=atfal123'
 
 
 script:
