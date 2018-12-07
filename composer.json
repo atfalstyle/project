@@ -7,10 +7,9 @@
     "support": {
         "website": "http://ngoping.blogspot.com/"
     },
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "dev",
     "require": {
-        "php": ">=5.2.4"
-    },
-    "require-dev": {
-        "mikey179/vfsStream": "1.1.*"
+        "php": ">=5.6",
     }
 }
