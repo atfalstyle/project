@@ -1,13 +1,16 @@
 {
     "description": "The Eureka Framework",
-    "name": "eureka/framework",
+    "name": "eureka/app",
     "type": "project",
     "homepage": "http://ngoping.blogspot.com",
     "license": "MIT",
+    "support": {
+        "website": "http://ngoping.blogspot.com/"
+    },
     "require": {
         "php": ">=5.2.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.5"
+        "mikey179/vfsStream": "1.1.*"
     }
 }
