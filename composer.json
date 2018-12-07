@@ -1,12 +1,14 @@
 {
-	"name": "labsroom/mahasiswa",
-	"author": [
-		{
-			"name": "atfal",
-			"email": "atfalstyle@gmail.com"
-		}
-	],
-	"require":{
-		"phpunit/phpunit": "^6.5"
-	}
+    "description": "The Eureka Framework",
+    "name": "eureka/framework",
+    "type": "project",
+    "homepage": "http://ngoping.blogspot.com",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.2.4",
+        "setasign/fpdf": "1.8.1"
+    },
+    "require-dev": {
+        "mikey179/vfsStream": "1.1.*"
+    }
 }
